@@ -56,14 +56,12 @@ digital-literacy-project/
 ### Task 1 – Digital Literacy Awareness Infographic
 Created a one-page visual infographic using Canva covering: what digital literacy is, safe internet practices, professional online presence, email etiquette, and useful digital tools for students. The infographic is designed for first-year students and uses clear icons and colour-coded sections for easy reading.
 
-📁 [View Task 1 Files](./task-1-presentation/)
 
 ---
 
 ### Task 2 – Student Digital Portfolio
 Set up professional profiles on **GitHub**, **LinkedIn**, and **Kaggle**. Each platform serves a unique purpose in building an academic and professional presence over the next four years of the B.Tech journey.
 
-📁 [View Task 2 Files](./task-2-portfolio/)
 
 ---
 
@@ -72,21 +70,18 @@ Completed a beginner coding challenge on **HackerRank** (Python Introduction tra
 
 🔗 **Google Form (Digital Literacy Quiz):** *(Paste your Google Form link here after creating it)*
 
-📁 [View Task 3 Files](./task-3-platforms/)
 
 ---
 
 ### Task 4 – Professional Email & Etiquette Guide
 Drafted two professional emails — one requesting a deadline extension from a professor, and one expressing interest in a summer internship. Also created a Social Media Do's and Don'ts checklist for college students.
 
-📁 [View Task 4 Files](./task-4-email-etiquette/)
 
 ---
 
 ### Task 5 – Cybercrime Awareness: Cyberbullying
 Researched cyberbullying as a cybercrime type — how it happens, who is targeted, and its consequences. Created a 'Stay Safe Online' prevention checklist with 8+ actionable tips including UPI/financial safety, and references to the National Cyber Crime Portal (cybercrime.gov.in) and Helpline 1930.
 
-📁 [View Task 5 Files](./task-5-cybercrime/)
 
 ---
 
