@@ -85,20 +85,7 @@ Researched cyberbullying as a cybercrime type — how it happens, who is targete
 
 ---
 
-## Useful Links
 
-| Platform | URL |
-|----------|-----|
-| Canva (Task 1) | https://canva.com |
-| GitHub (Task 2) | https://github.com |
-| LinkedIn (Task 2) | https://linkedin.com |
-| Kaggle (Task 2) | https://kaggle.com |
-| HackerRank (Task 3) | https://hackerrank.com |
-| Google Forms (Task 3) | https://forms.google.com |
-| Cyber Crime Portal (Task 5) | https://cybercrime.gov.in |
-| Cyber Crime Helpline | 1930 (24x7) |
-
----
 
 ## Academic Integrity
 
