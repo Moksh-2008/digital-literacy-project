@@ -21,7 +21,7 @@ Moksh Patel
 Registration No.: 25MIM10028
 Integrated M.Tech – First Year
 VIT Bhopal University
-[College Email ID]
+moksh.25mim10028@gmail.com
 
 ---
 
@@ -43,9 +43,7 @@ Yours sincerely,
 Moksh Patel
 Integrated M.Tech – First Year
 VIT Bhopal University
-[College Email ID]
-[LinkedIn Profile URL]
-[GitHub Profile URL]
+moksh.25mim10028@gmail.com
 
 ---
 
